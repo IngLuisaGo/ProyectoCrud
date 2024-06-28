@@ -1,0 +1,8 @@
+C:\Users\luisa.gomez\source\repos\pruebaDeConocimiento1\Proyecto\obj\Debug\net5.0\Proyecto.Web.csproj.AssemblyReference.cache
+C:\Users\luisa.gomez\source\repos\pruebaDeConocimiento1\Proyecto\obj\Debug\net5.0\Proyecto.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.gomez\source\repos\pruebaDeConocimiento1\Proyecto\obj\Debug\net5.0\Proyecto.Web.AssemblyInfoInputs.cache
+C:\Users\luisa.gomez\source\repos\pruebaDeConocimiento1\Proyecto\obj\Debug\net5.0\Proyecto.Web.AssemblyInfo.cs
+C:\Users\luisa.gomez\source\repos\pruebaDeConocimiento1\Proyecto\obj\Debug\net5.0\Proyecto.Web.csproj.CoreCompileInputs.cache
+C:\Users\luisa.gomez\source\repos\pruebaDeConocimiento1\Proyecto\obj\Debug\net5.0\Proyecto.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisa.gomez\source\repos\pruebaDeConocimiento1\Proyecto\obj\Debug\net5.0\Proyecto.Web.RazorAssemblyInfo.cache
+C:\Users\luisa.gomez\source\repos\pruebaDeConocimiento1\Proyecto\obj\Debug\net5.0\Proyecto.Web.RazorAssemblyInfo.cs

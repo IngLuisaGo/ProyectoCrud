@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Proyecto.Data.Usuario>
+
+<h1>Consulta de Usuarios</h1>
+
+<p>
+    <a href="/Usuario/Crear" class="btn btn-primary">Crear Nuevo Usuario</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Sexo</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.FechaNacimiento.ToShortDateString()</td>
+                <td>@item.Sexo</td>
+                <td>
+                    <a href="/Usuario/Editar/@item.Id" class="btn btn-secondary">Editar</a>
+                    <a href="/Usuario/Eliminar/@item.Id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
